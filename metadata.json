@@ -1,0 +1,6 @@
+{
+  "name": "YBS APPARELS",
+  "description": "Premium contemporary streetwear and engineered everyday apparel store by YBS Apparel Industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
